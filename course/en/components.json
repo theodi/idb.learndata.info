@@ -1,0 +1,798 @@
+[
+  {
+    "_id": "57c68fde4d7b7e82691e3bf2",
+    "_layout": "left",
+    "_parentId": "57c68f754d7b7e82691e3bf1",
+    "_type": "component",
+    "body": "<p>Welcome to the IDB open innovation guide. The following module is your companion to understanding, selecting and running open innovation events. You can use this module as a reference any time you are running an event, discussing open innovation with bank colleagues &amp; partners or exploring options for the future.</p>\n\n<p>By the end of this module you will be able to:</p>\n\n<ul>\n\t<li>Understand open innovation and&nbsp;its significance for IDB</li>\n\t<li>Define the five key formats for open innovation events</li>\n\t<li>Select the most appropriate event to run for a particular goal or audience</li>\n\t<li>Assess the relevance of different business models for supporting and financing open innovation</li>\n\t<li>Classify the evaluation and measurement techniques to monitor the impact of open innovation</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Open innovation & IDB",
+    "title": "Open innovation & IDB",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57c692754d7b7e82691e3bf3",
+    "_layout": "right",
+    "_parentId": "57c68f754d7b7e82691e3bf1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "   ",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9f401caf7d0b0b4419705ce3329f755df2896cb5.png",
+      "small": "course/en/assets/9f401caf7d0b0b4419705ce3329f755df2896cb5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c6a5684d7b7e82691e3c10",
+    "_layout": "left",
+    "_parentId": "57c6a4614d7b7e82691e3c0e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "small": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c6a8254d7b7e82691e3c19",
+    "_layout": "full",
+    "_parentId": "57c6a62f4d7b7e82691e3c14",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Fibre banner",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5e905630a525cc4c63caaeb35071e4ed49f16e3d.png",
+      "small": "course/en/assets/5e905630a525cc4c63caaeb35071e4ed49f16e3d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c6aa874d7b7e82691e3c2f",
+    "_layout": "left",
+    "_parentId": "57c6aa394d7b7e82691e3c2c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "   ",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "small": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c694cb4d7b7e82691e3bf8",
+    "_layout": "full",
+    "_parentId": "57c694a14d7b7e82691e3bf7",
+    "_type": "component",
+    "body": "<p>Open innovation is an approach to problem-solving that seeks to gather ideas from new sources. To take an open approach to innovation, you need to look beyond those who would &#39;traditionally&#39; solve the problem to find new answers.</p>\n\n<p>The formal definition of open innovation is &#39;the use of inflows and outflows of knowledge to accelerate internal innovation, and expand the markets for external use of innovation, respectively&rsquo;. Simplified, this means gathering fresh ideas and solutions from different sources then using them to increase the reach or effectiveness of what you are doing.</p>\n\n<p>Open innovation happens at one of two scales - organisation-scale and macro-scale. Organisation-scale open innovation happens when an organisation like the IDB looks for fresh ideas and solutions to internal challenges such as how to run more efficiently or how to create a better offering. Macro-scale open innovation happens when an organisation or group of organisations look for fresh ideas and solutions to a challenge in the wider world such as housing, crime or education.</p>\n",
+    "displayTitle": "What is open innovation?",
+    "title": "What is open innovation?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57c694f34d7b7e82691e3bfa",
+    "_layout": "full",
+    "_parentId": "57c694df4d7b7e82691e3bf9",
+    "_type": "component",
+    "body": "<p>Open innovation can take many forms. For you as a part of the IDB&#39;s work, it will typically take the form of an event or series of events that seek to address a specific challenge. There are five types of event you may be asked to engage with and it is important to understand how and when each one should be used.</p>\n",
+    "displayTitle": "The five major types of open innovation event",
+    "title": "The five major types of open innovation event",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the names below to discover more about each type of event",
+    "_items": [
+      {
+        "title": "Ideathon",
+        "body": "<p>The Ideathon is a&nbsp;virtual or face-to-face activity designed to generate new ideas in response to a particular user need. Ideathons&nbsp;involve&nbsp;specific idea generation activities and/or group work.</p>\n\n<p><strong>Topic:</strong> Whole organization or broad area</p>\n\n<p><strong>Audience:</strong> People who are engaged with the subject matter in some way. The more diverse the skills in the audience, the better</p>\n\n<p><strong>Outputs:</strong> Innovative ideas from a range of perspectives that don&rsquo;t necessarily conform to organizational norms. Ideathons traditionally do not generate working prototypes</p>\n\n<p><strong>Example:&nbsp;</strong>The Knight Foundation&nbsp;<a href=\"https://www.newschallenge.org/challenge/how-might-libraries-serve-21st-century-information-needs/evaluation\">News Challenges</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/254606bd71d53ee24aa67073ce8e142535b94aca.png"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mapathon",
+        "body": "<p>The mapathon is a&nbsp;coordinated event in which participants create or transpose mapping features. Often held inside (armchair mapping) but can also be an outside or combined.</p>\n\n<p><strong>Topic:</strong> Geographic area, map quality or specific humanitarian disaster/ geographic change</p>\n\n<p><strong>Audience:</strong> Those with an interest in mapping and citizen science communities</p>\n\n<p><strong>Outputs:</strong> New maps. Also strengthens mapping community resources for future responses</p>\n\n<p><strong>Example:&nbsp;</strong>The&nbsp;<a href=\"http://www.missingmaps.org/\">Missing Maps Project</a>&nbsp;by Medisans sans Frontiers.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/e40a86d12adcbdb29cff3692d7dea2a78606c861.png"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Hackathon",
+        "body": "<p>The hackathon is an&nbsp;event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects.</p>\n\n<p><strong>Topic: </strong>Focused problem or technical challenge</p>\n\n<p><strong>Audience:</strong> Those with technical skills including computer programmers and others involved in software development, including graphic designers, interface designers and project managers.</p>\n\n<p><strong>Outputs:</strong> Technically functional prototypes or minimum viable products. Participants also gain personal and professional development opportunities.</p>\n\n<p><strong>Example:&nbsp;</strong>The University of Pennsylvania&#39;s&nbsp;<a href=\"http://2016f.pennapps.com/\">PennApps</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/7c29549ca67b63f202dbc75a08d36cd4187119cc.png"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data dive",
+        "body": "<p>The data dive is a high energy, marathon-style events where mission-driven organizations work alongside teams of volunteer data scientists, developers, and designers to use data to gain insight into their programs, the communities they serve and more.</p>\n\n<p><strong>Topic: </strong>Mission or task is set by a single organisation and could be driven by social/humanitarian need or by a specific dataset.</p>\n\n<p><strong>Audience: </strong>Non Government Organisations (NGOs), data scientists, analysts, researchers, academics</p>\n\n<p><strong>Outputs:</strong> Visualizations, analysis, graphs or datasets. Also generates answers to difficult questions &amp; &lsquo;wicked&rsquo; problems</p>\n\n<p><strong>Example:&nbsp;</strong>The work of&nbsp;<a href=\"http://www.datakind.org/datadives\">DataKind</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/be3d9463d01b58d4a6b387af05532dbd1314e66d.png"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Challenge ",
+        "body": "<p>The challenge is a competition that awards a cash prize for the accomplishment of a feat, usually of engineering, business or other major accomplishment. Challenges&nbsp;are typically designed to extend the limits of human ability.</p>\n\n<p><strong>Topic:</strong> Specific goal set by organizing group - should be a complicated or complex issue. Submissions shaped by inclusion of certain criteria, team must include consortium of business and academic&nbsp;institution</p>\n\n<p><strong>Audience:</strong> Entrepreneurs, start-ups, big business, academic institutions and SMEs</p>\n\n<p><strong>Outputs:</strong> Viable products/services with a tested business model. Innovative solutions to complex challenges. Also develops the baseline capacity of the target set to innovate.</p>\n\n<p><strong>Example:&nbsp;</strong>The Open Data Institute&#39;s&nbsp;<a href=\"http://opendatachallenges.org/\">Open Data Challenge Prizes</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/38ec22714b72d293fbe63c8e496cbea3159f0a75.png"
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "57c9728b4d7b7e82691e3c49",
+    "_layout": "full",
+    "_parentId": "57c695c84d7b7e82691e3bfb",
+    "_type": "component",
+    "body": "<p>The five types of event above are all important parts of the IDB open innovation programme. But more important still is selecting the right event format for your needs. Selecting the type of event requires you to carefully consider both who you expect to attend and what impact you want to generate. Use the selector tool to quickly take you to the best type of event for your goals. Once you complete the survey below, click on your results to see which event matches best.</p>\n",
+    "displayTitle": "Choosing the right type of event",
+    "title": "Choosing the right type of event",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://docs.google.com/a/theodi.org/forms/d/e/1FAIpQLSevPaYrS-bgTY-0SBonMPIFOwovGBEJbC7iaviefhOWxtF-HA/viewform?embedded=true",
+    "_scrolling": "auto",
+    "_width": {
+      "_small": 480,
+      "_medium": 600,
+      "_large": 760
+    },
+    "_height": {
+      "_small": 316,
+      "_medium": 395,
+      "_large": 500
+    }
+  },
+  {
+    "_id": "57c697344d7b7e82691e3c01",
+    "_layout": "full",
+    "_parentId": "57c697174d7b7e82691e3c00",
+    "_type": "component",
+    "body": "<p>Once you have the correct type of event in mind, the next task is to determine which business model should be put in place to finance operations, personnel and, in some cases, prizes for the winning participants. The business models for open innovation are varied and there is ultimately no exact answer. Much of the selection depends on your judgement as an organiser of the available opportunities.</p>\n\n<p>However, following proven approaches is a good way to ensure your event will be successful both with internal IDB sponsors and the wider world. Scroll through the business models below to understand more.</p>\n",
+    "displayTitle": "Identifying the business models",
+    "title": "Identifying the business models",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see the next business model",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Funded",
+        "body": "<p><strong>What is it?&nbsp;</strong>The funded model is to fund, design and execute your open innovation event independently. The model depends on internal IDB funds being used to cover the complete cost of the event.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of having the fewset dependencies on external funders but the drawback of being counter to the principles of collaboration and broad engagement</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should be used when the event is considered a high priority but other models have been exhausted or deemed infeasible.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/9fd45b5c18b57804c057ee5c7a1c859bd0125709.jpg",
+          "alt": ""
+        },
+        "strapline": "Funded"
+      },
+      {
+        "title": "Partnership",
+        "body": "<p><strong>What is it?&nbsp;</strong>The partnership model is to enter into a strategic partnership with a complementary organisation such as a charity in need of innovation, an&nbsp;innovation hub or an accelerator who can deliver elements of the event.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of tapping into the expertise and best practices of other organisations but the drawback of still being either self-funded or requiring external funding</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should be used when you have a specific organisation who needs your help or where you identify a need for support and expertise which the partner organisation possesses.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/5d6bf692261b5d77ea6a9856974558658e6170e9.jpg",
+          "alt": ""
+        },
+        "strapline": "Partnership"
+      },
+      {
+        "title": "Sponsorship",
+        "body": "<p><strong>What is it?&nbsp;</strong>The sponsorship model is where you invite big brands or philanthropic organisations to sponsor a whole event or series of events to build strategic alignment and demonstrate philanthropic investment in priority areas.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of funding your work through a recognised and potentially beneficial name&nbsp;but the drawback of potentially being perceived as bias in the judging or operations.</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should be used where the event requires external funding but the neutrality of the judging&nbsp;can still be guaranteed under the sponsorship conditions.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/00262582d0d091aa5d8457da7e83da45e1d1519d.jpg",
+          "alt": ""
+        },
+        "strapline": "Sponsor"
+      },
+      {
+        "title": "Franchise",
+        "body": "<p><strong>What is it?&nbsp;</strong>The franchise model is where you work&nbsp;with similar organisations to deliver a series of events with common structure and purpose/focus. As the franchise merchant you as IDB offer&nbsp;training to ensure consistent quality of delivery across each of the franchise holders.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of the franchise model is that it can be quickly and simply scaled up to a broad network of providers while the drawback is the need to find those capable of paying the franchise fees or delivering to the recognised standard of quality.</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should be used where the events can be better delivered by local partners than IDB.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ccd188f706aa21b720290fe2b33af4b13f3880ae.jpg",
+          "alt": ""
+        },
+        "strapline": "franchise"
+      },
+      {
+        "title": "Membership",
+        "body": "<p><strong>What is it?&nbsp;</strong>The membership model is where you invite participants to sign up for a series of interrelated events (for example a&nbsp;datadive, a mapathon and a&nbsp;hackathon and culminating in a challenge) all related to the same social goal.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of ensuring a steady and prolonged engagement from a diverse group of members&nbsp;while the drawback is that membership is a time rather than a financial commitment, meaning financing must be covered elsewhere.</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should be used where your priority is the largest possible number of attendees across a programme of events.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/f5890a9c7132c29996f469a5da64068aaff88e48.jpg",
+          "alt": ""
+        },
+        "strapline": "Membership"
+      },
+      {
+        "title": "Fees",
+        "body": "<p><strong>What is it?&nbsp;</strong>The fees model is where you charge a set fee for attendance at events and/or participation in projects.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of providing end-user revenue while the drawback is that that entry fees create a barrier to entry for many and deter others from coming along.</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should not be used except in a case of last resort as it reduces attendance and impacts.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/140a381de90e79018a009c7dbe3e0dc74a3ef1dd.jpg",
+          "alt": ""
+        },
+        "strapline": "Fees"
+      }
+    ]
+  },
+  {
+    "_id": "57c6a4754d7b7e82691e3c0f",
+    "_layout": "right",
+    "_parentId": "57c6a4614d7b7e82691e3c0e",
+    "_type": "component",
+    "body": "<p>Once you have selected the appropriate event and business model, the final stage is to put in place a strong evaluation framework to monitor the impact of the event(s). Selecting the right evaluation approach is crucial to the success of any open innovation programme. Strong, correctly framed evaluation allows you to demonstrate impact, project future success and ultimately get more events underway in a faster time.</p>\n\n<p>Evaluation can happen at any of four phases of the event.</p>\n\n<p><strong>Ex-ante evaluation</strong> is&nbsp;conducted before the implementation of a programme&nbsp;and focuses&nbsp;on the objectives are and how&nbsp;they should be achieved.<strong>&nbsp;Intermediate evaluation&nbsp;</strong>is conducted at a fixed point during implementation of the programme to&nbsp;review progress and achievements to date and is&nbsp;usually reserved for long-lasting programmes. <strong>Real-time evaluation </strong>is conducted throughout&nbsp;the programme to monitor current reactions of participants and change over time.&nbsp;<strong>Ex-post evaluation </strong>is conducted after a programme is completed to&nbsp;examine the results and their impact.</p>\n\n<p>Most events will benefit from a combination of these intervals. A good rule to follow is the longer the event or the more substantial the expected results, the more evaluation&nbsp;<em>before&nbsp;</em>and&nbsp;<em>during</em>&nbsp;is required. For short events like a mapathon, you can evaluate ex-post. For a challenge, all four intervals will likely be needed.</p>\n\n<p>Once you have decided which evaluation points are needed, you need to determine what techniques to apply. Make yourself familiar with the four key techniques below to understand when and where to use them.</p>\n",
+    "displayTitle": "Evaluating open innovation events",
+    "title": "Evaluating open innovation events",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Qualitative evaluation",
+        "body": "<p dir=\"ltr\"><strong>Description: </strong>Qualitative observations are defined in science as any observation made using the five senses - often involve value judgements and emotional responses and are difficult to reproduce reliably.</p>\n\n<p dir=\"ltr\"><strong>Most effective when: </strong>Compiled/conducted by an independent third party; undertaken alongside quantitative evaluation; engaging a wide variety of participants/team members.</p>\n\n<p dir=\"ltr\"><strong>Useful to: </strong>build bank of testimonials/quotes; create content for marketing/press; unpick unexpected outcomes;</p>\n\n<p dir=\"ltr\"><strong>Examples:</strong>&nbsp;Focus groups,&nbsp;Questionnaire,&nbsp;Semi-structured interview,&nbsp;Process evaluation and&nbsp;Case studies</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Simple evaluation",
+        "body": "<p dir=\"ltr\"><strong>Description: </strong>Collection of, analysis and interpretation of data/information about any aspect of a programme in order to judge its effectiveness, its efficiency and any other outcomes it may have.</p>\n\n<p dir=\"ltr\"><strong>Most effective when: </strong>Conducted with the full organising team, culture of honesty and openness is apparent, KPIs have been carefully designed; facilitated by a neutral third party; conducted regularly/real time.</p>\n\n<p dir=\"ltr\"><strong>Useful to: </strong>Assess success of partnerships/collaborations, determine success against quantitative KPIs</p>\n\n<p><strong>Examples:</strong>&nbsp;Participant survey,&nbsp;Independent process evaluation,&nbsp;Quantitative questionnaire,&nbsp;Strengths, Weaknesses, Opportunities and Threats (SWOT),&nbsp;Public dashboard</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Impact evaluation",
+        "body": "<p dir=\"ltr\"><strong>Description: </strong>A means of measuring the effectiveness of a project or activity and providing quantifiable judgement on the significance of changes brought about by those activities.</p>\n\n<p dir=\"ltr\"><strong>Most effective when: </strong>Conducted by an independent third party; arranged prior to the project start date; team is involved in the agreement of KPIs</p>\n\n<p dir=\"ltr\"><strong>Useful to:</strong> validate impact of project; provide independent evidence of impact; quantify impact against industry benchmarks/similar projects.</p>\n\n<p><strong>Examples:&nbsp;</strong>SROI / ROI - independent or in-house,&nbsp;Social impact scale analysis,&nbsp;Economic Impact Assessment</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Financial evaluation",
+        "body": "<p dir=\"ltr\"><strong>Description: </strong>The process of evaluating the projects, budgets and other finance-related entities relating to a specific open innovation activity to determine their performance, suitability and return on investment.</p>\n\n<p dir=\"ltr\"><strong>Most effective when: </strong>Products and services created are intended to be sustainable; conducted 2-3 years after end of open innovation challenge.</p>\n\n<p dir=\"ltr\"><strong>Useful to: </strong>Assess value of products/services created; demonstrate ROI for the open innovation project.</p>\n\n<p dir=\"ltr\"><strong>Example:</strong>&nbsp;Gross Value Added&nbsp;measurement</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "57c6a68a4d7b7e82691e3c16",
+    "_layout": "left",
+    "_parentId": "57c6a64b4d7b7e82691e3c15",
+    "_type": "component",
+    "body": "<p>Open innovation is...</p>\n",
+    "displayTitle": "What is open innovation?",
+    "title": "What is open innovation?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer and click submit",
+    "_items": [
+      {
+        "text": "a way to get free labour from others",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "a new way to finance your existing work",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "a term invented to confuse ordinary people",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "an approach to problem-solving that seeks to gather ideas from new sources",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Congratulations! </strong></p>\n\n<p>Open innovation is&nbsp;an approach to problem-solving that seeks to gather ideas from new sources.&nbsp;</p>\n\n<p>The term is also formally defined as &quot;the use of inflows and outflows of knowledge to accelerate internal innovation, and expand the markets for external use of innovation, respectively&rsquo;.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that? </strong></p>\n\n<p>Open innovation is&nbsp;an approach to problem-solving that seeks to gather ideas from new sources.&nbsp;</p>\n\n<p>The term is also formally defined as &quot;the use of inflows and outflows of knowledge to accelerate internal innovation, and expand the markets for external use of innovation, respectively&rsquo;.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57c99eef4d7b7e82691e3c4a",
+    "_layout": "right",
+    "_parentId": "57c6a64b4d7b7e82691e3c15",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9f401caf7d0b0b4419705ce3329f755df2896cb5.png",
+      "small": "course/en/assets/9f401caf7d0b0b4419705ce3329f755df2896cb5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57c6a72d4d7b7e82691e3c18",
+    "_layout": "full",
+    "_parentId": "57c6a70f4d7b7e82691e3c17",
+    "_type": "component",
+    "body": "<p>One of the most important skills for open innovation is selecting the right type of event. Use your knowledge of open innovation events to match up the examples below.</p>\n",
+    "displayTitle": "Selecting an event to match your needs",
+    "title": "Selecting an event to match your needs",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the event that most closely matches the specification and click enter",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "I want to connect data scientists with a social project",
+        "_options": [
+          {
+            "text": "Data dive",
+            "_isCorrect": true
+          },
+          {
+            "text": "Hackathon",
+            "_isCorrect": false
+          },
+          {
+            "text": "Challenge",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I want to improve the integrity of a map",
+        "_options": [
+          {
+            "text": "Mapathon",
+            "_isCorrect": true
+          },
+          {
+            "text": "Ideathon",
+            "_isCorrect": false
+          },
+          {
+            "text": "Hackathon",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I want to develop sustainable products and services",
+        "_options": [
+          {
+            "text": "Challenge",
+            "_isCorrect": true
+          },
+          {
+            "text": "Hackathon",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data dive",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>Well done! </strong></p>\n\n<p>You clearly know your hackathon from your data dive!</p>\n\n<p>For the data scientists, a data dive provides the perfect opportunity to make a difference to a social project.</p>\n\n<p>To improve the integrity of a map, the mapathon is just right.</p>\n\n<p>Challenges are held over a long timescale, making them the best way to develop and deliver sustainable products and services.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>Maybe it is time to look again at those event types.</p>\n\n<p>For the data scientists, a data dive provides the perfect opportunity to make a difference to a social project.</p>\n\n<p>To improve the integrity of a map, the mapathon is just right.</p>\n\n<p>Challenges are held over a long timescale, making them the best way to develop and deliver sustainable products and services.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p><strong>Almost there!</strong></p>\n\n<p>You know your stuff but might want to check just once more.</p>\n\n<p>For the data scientists, a data dive provides the perfect opportunity to make a difference to a social project.</p>\n\n<p>To improve the integrity of a map, the mapathon is just right.</p>\n\n<p>Challenges are held over a long timescale, making them the best way to develop and deliver sustainable products and services.</p>\n",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57c6a9994d7b7e82691e3c1f",
+    "_layout": "full",
+    "_parentId": "57c6a9264d7b7e82691e3c1d",
+    "_type": "component",
+    "body": "<p>Lets see if you can choose the best business model for the following circumstances:</p>\n\n<p>You are considering running a network of ideathons around latin america &amp; the caribbean. Lots of local partners have offered to help you out and you might not have the staff at IDB to handle everything.&nbsp;</p>\n\n<p>What business model would best support you here?</p>\n",
+    "displayTitle": "Business models",
+    "title": "Business models",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "gmcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your preffered business model by clicking on the image then click submit.",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/9fd45b5c18b57804c057ee5c7a1c859bd0125709.jpg",
+          "small": "course/en/assets/9fd45b5c18b57804c057ee5c7a1c859bd0125709.jpg",
+          "alt": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/5d6bf692261b5d77ea6a9856974558658e6170e9.jpg",
+          "small": "course/en/assets/5d6bf692261b5d77ea6a9856974558658e6170e9.jpg",
+          "alt": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/00262582d0d091aa5d8457da7e83da45e1d1519d.jpg",
+          "small": "course/en/assets/00262582d0d091aa5d8457da7e83da45e1d1519d.jpg",
+          "alt": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/ccd188f706aa21b720290fe2b33af4b13f3880ae.jpg",
+          "small": "course/en/assets/ccd188f706aa21b720290fe2b33af4b13f3880ae.jpg",
+          "alt": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/f5890a9c7132c29996f469a5da64068aaff88e48.jpg",
+          "small": "course/en/assets/f5890a9c7132c29996f469a5da64068aaff88e48.jpg",
+          "alt": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/140a381de90e79018a009c7dbe3e0dc74a3ef1dd.jpg",
+          "small": "course/en/assets/140a381de90e79018a009c7dbe3e0dc74a3ef1dd.jpg",
+          "alt": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Well done!</p>\n\n<p>You may not have the staff to deliver which rules out self-funding, fees and membership. A partner may be available but they will face a challenge about the number and scope of countries involved so partnership looks risky.</p>\n\n<p>The franchise model allows you to give skills to local partners who support the delivery while remaining consistent</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>You may not have the staff to deliver which rules out self-funding, fees and membership. A partner may be available but they will face a challenge about the number and scope of countries involved so partnership looks risky.</p>\n\n<p>The franchise model allows you to give skills to local partners who support the delivery while remaining consistent</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57c6aa824d7b7e82691e3c2e",
+    "_layout": "right",
+    "_parentId": "57c6aa394d7b7e82691e3c2c",
+    "_type": "component",
+    "body": "<p>Which of the following is not a good evaluation technique for open innovation?</p>\n",
+    "displayTitle": "Spotting evaluation techniques",
+    "title": "Spotting evaluation techniques",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Qualitative evaluation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Simple evaluation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Impact evaluation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Financial evaluation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Literature evaluation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Well done!</p>\n\n<p>&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "57c6ab354d7b7e82691e3c33",
+    "_layout": "full",
+    "_parentId": "57c6ab0f4d7b7e82691e3c32",
+    "_type": "component",
+    "body": "<p>Over the course of this module we have learned how open innovation can be used across IDB projects. As part of the bank&#39;s work, when considering using open innovation in your projects, you can use the tools and techniques above to ensure you make smart choices and come away with valuable, high-impact events.</p>\n\n<p>If you want to learn more about open innovation, why not check out the full report below?</p>\n\n<p>Read the full report</p>\n",
+    "displayTitle": "Using open innovation in your daily work",
+    "title": "Using open innovation in your daily work",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]
