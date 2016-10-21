@@ -37,10 +37,6 @@
       }
     },
     "_components": {
-      "_media": {
-        "transcriptButton": "Alternatively you can select the link below for the transcript.",
-        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen."
-      },
       "_text": {
         "ariaRegion": ""
       },
@@ -108,8 +104,8 @@
       "buttonText": "Submit"
     }
   },
-  "_latestTrackingId": 12,
-  "body": "<p>Welcome to the IADB open innovation techniques course</p>\n",
+  "_latestTrackingId": 13,
+  "body": "<p>Welcome to the IDB open innovation techniques guide</p>\n",
   "displayTitle": "Open innovation techniques",
   "title": "Open innovation techniques",
   "_pageLevelProgress": {

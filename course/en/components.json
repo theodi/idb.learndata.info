@@ -34,8 +34,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/9f401caf7d0b0b4419705ce3329f755df2896cb5.png",
-      "small": "course/en/assets/9f401caf7d0b0b4419705ce3329f755df2896cb5.png",
+      "large": "course/en/assets/c1dbe871b62b91346810ad2646fcdd6f787d72ba.jpg",
+      "small": "course/en/assets/c1dbe871b62b91346810ad2646fcdd6f787d72ba.jpg",
       "attribution": ""
     }
   },
@@ -170,8 +170,8 @@
         "_classes": ""
       },
       {
-        "title": "Data dive",
-        "body": "<p>The data dive is a high energy, marathon-style events where mission-driven organizations work alongside teams of volunteer data scientists, developers, and designers to use data to gain insight into their programs, the communities they serve and more.</p>\n\n<p><strong>Topic: </strong>Mission or task is set by a single organisation and could be driven by social/humanitarian need or by a specific dataset.</p>\n\n<p><strong>Audience: </strong>Non Government Organisations (NGOs), data scientists, analysts, researchers, academics</p>\n\n<p><strong>Outputs:</strong> Visualizations, analysis, graphs or datasets. Also generates answers to difficult questions &amp; &lsquo;wicked&rsquo; problems</p>\n\n<p><strong>Example:&nbsp;</strong>The work of&nbsp;<a href=\"http://www.datakind.org/datadives\">DataKind</a></p>\n",
+        "title": "Datathon",
+        "body": "<p>The datathon is a high energy, marathon-style events where mission-driven organizations work alongside teams of volunteer data scientists, developers, and designers to use data to gain insight into their programs, the communities they serve and more.</p>\n\n<p><strong>Topic: </strong>Mission or task is set by a single organisation and could be driven by social/humanitarian need or by a specific dataset.</p>\n\n<p><strong>Audience: </strong>Non Government Organisations (NGOs), data scientists, analysts, researchers, academics</p>\n\n<p><strong>Outputs:</strong> Visualizations, analysis, graphs or datasets. Also generates answers to difficult questions &amp; &lsquo;wicked&rsquo; problems</p>\n\n<p><strong>Example:&nbsp;</strong>The work of&nbsp;<a href=\"http://www.datakind.org/datadives\">DataKind</a></p>\n",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/be3d9463d01b58d4a6b387af05532dbd1314e66d.png"
@@ -206,17 +206,17 @@
       "_isEnabled": true
     },
     "instruction": "",
-    "_source": "https://docs.google.com/a/theodi.org/forms/d/e/1FAIpQLSevPaYrS-bgTY-0SBonMPIFOwovGBEJbC7iaviefhOWxtF-HA/viewform?embedded=true",
-    "_scrolling": "auto",
+    "_source": "http://www.iboske.com/bcave/50397184/",
+    "_scrolling": "no",
     "_width": {
-      "_small": 480,
-      "_medium": 600,
-      "_large": 760
+      "_small": 490,
+      "_medium": 610,
+      "_large": 740
     },
     "_height": {
       "_small": 316,
       "_medium": 395,
-      "_large": 500
+      "_large": 480
     }
   },
   {
@@ -279,7 +279,7 @@
         "title": "Membership",
         "body": "<p><strong>What is it?&nbsp;</strong>The membership model is where you invite participants to sign up for a series of interrelated events (for example a&nbsp;datadive, a mapathon and a&nbsp;hackathon and culminating in a challenge) all related to the same social goal.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of ensuring a steady and prolonged engagement from a diverse group of members&nbsp;while the drawback is that membership is a time rather than a financial commitment, meaning financing must be covered elsewhere.</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should be used where your priority is the largest possible number of attendees across a programme of events.</p>\n",
         "_graphic": {
-          "src": "course/en/assets/f5890a9c7132c29996f469a5da64068aaff88e48.jpg",
+          "src": "course/en/assets/3148633c5da5e8cd5bc7f9186a9804a7627bf222.jpg",
           "alt": ""
         },
         "strapline": "Membership"
@@ -288,7 +288,7 @@
         "title": "Fees",
         "body": "<p><strong>What is it?&nbsp;</strong>The fees model is where you charge a set fee for attendance at events and/or participation in projects.</p>\n\n<p><strong>Pros &amp; Cons?&nbsp;</strong>The model has the benefit of providing end-user revenue while the drawback is that that entry fees create a barrier to entry for many and deter others from coming along.</p>\n\n<p><strong>When to use?&nbsp;</strong>This model should not be used except in a case of last resort as it reduces attendance and impacts.</p>\n",
         "_graphic": {
-          "src": "course/en/assets/140a381de90e79018a009c7dbe3e0dc74a3ef1dd.jpg",
+          "src": "course/en/assets/9f25180f0d8987fab5097d2d3f7a78293ecb79ce.jpg",
           "alt": ""
         },
         "strapline": "Fees"
@@ -484,7 +484,7 @@
         "text": "I want to connect data scientists with a social project",
         "_options": [
           {
-            "text": "Data dive",
+            "text": "Datathon",
             "_isCorrect": true
           },
           {
@@ -526,7 +526,7 @@
             "_isCorrect": false
           },
           {
-            "text": "Data dive",
+            "text": "Datathon",
             "_isCorrect": false
           }
         ]
@@ -583,7 +583,7 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "Select your preffered business model by clicking on the image then click submit.",
+    "instruction": "Select your preferred business model by clicking on the image then click submit.",
     "_items": [
       {
         "_graphic": {
@@ -623,26 +623,6 @@
         },
         "text": "",
         "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "_graphic": {
-          "large": "course/en/assets/f5890a9c7132c29996f469a5da64068aaff88e48.jpg",
-          "small": "course/en/assets/f5890a9c7132c29996f469a5da64068aaff88e48.jpg",
-          "alt": ""
-        },
-        "text": "",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "_graphic": {
-          "large": "course/en/assets/140a381de90e79018a009c7dbe3e0dc74a3ef1dd.jpg",
-          "small": "course/en/assets/140a381de90e79018a009c7dbe3e0dc74a3ef1dd.jpg",
-          "alt": ""
-        },
-        "text": "",
-        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -783,7 +763,7 @@
     "_layout": "full",
     "_parentId": "57c6ab0f4d7b7e82691e3c32",
     "_type": "component",
-    "body": "<p>Over the course of this module we have learned how open innovation can be used across IDB projects. As part of the bank&#39;s work, when considering using open innovation in your projects, you can use the tools and techniques above to ensure you make smart choices and come away with valuable, high-impact events.</p>\n\n<p>If you want to learn more about open innovation, why not check out the full report below?</p>\n\n<p>Read the full report</p>\n",
+    "body": "<p>Over the course of this module we have learned how open innovation can be used across IDB projects. As part of the bank&#39;s work, when considering using open innovation in your projects, you can use the tools and techniques above to ensure you make smart choices and come away with valuable, high-impact events.</p>\n\n<p>If you want to learn more about open innovation, why not check out the full report below?</p>\n\n<p><a href=\"http://idb.learndata.info/Report\">Read the full report</a></p>\n",
     "displayTitle": "Using open innovation in your daily work",
     "title": "Using open innovation in your daily work",
     "_isAvailable": true,
@@ -794,5 +774,28 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "5809f65c4d7b7e82691e3f14",
+    "_layout": "full",
+    "_parentId": "5809f63e4d7b7e82691e3f13",
+    "_type": "component",
+    "body": "<p>Now that you understand each of the event types, it may be useful to compare them side-by-side. The matrix below helps to illustrate the key differences between event types and can help inform your decision-making.</p>\n",
+    "displayTitle": "",
+    "title": "Comparing types of innovation event",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1e11ee4bd5fc47ca1c29aad65ca52988d83ef727.png",
+      "small": "course/en/assets/1e11ee4bd5fc47ca1c29aad65ca52988d83ef727.png",
+      "attribution": ""
+    }
   }
 ]
